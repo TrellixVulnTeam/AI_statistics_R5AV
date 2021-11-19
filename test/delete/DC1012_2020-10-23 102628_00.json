@@ -1,0 +1,164 @@
+{
+  "info": {
+    "Year": "2020",
+    "version": "4.5.6",
+    "date_created": "2020/11/04 11:03:23"
+  },
+  "images": {
+    "file_name": "DC1012_2020-10-23 102628_00.jpg",
+    "height": 1080,
+    "width": 1920,
+    "date_captured": "2020-10-23 102628",
+    "collector_id": "DC1012"
+  },
+  "annotations": [
+    {
+      "id": "polygon_1",
+      "processor_id": "DL6192",
+      "category_id": "walkway_block",
+      "segmentation": [
+        [
+          792.2987012987013,
+          671.7532467532467
+        ],
+        [
+          554.6363636363636,
+          930.1948051948052
+        ],
+        [
+          994.8961038961039,
+          915.9090909090909
+        ],
+        [
+          910.4805194805194,
+          675.6493506493506
+        ]
+      ]
+    },
+    {
+      "id": "polygon_2",
+      "processor_id": "DL6192",
+      "category_id": "block_kind_good",
+      "segmentation": [
+        [
+          790.2987012987013,
+          669.7532467532467
+        ],
+        [
+          552.6363636363636,
+          928.1948051948052
+        ],
+        [
+          992.8961038961039,
+          913.9090909090909
+        ],
+        [
+          908.4805194805194,
+          673.6493506493506
+        ]
+      ]
+    },
+    {
+      "id": "polygon_3",
+      "processor_id": "DL6192",
+      "category_id": "block_state_normal",
+      "segmentation": [
+        [
+          788.2987012987013,
+          667.7532467532467
+        ],
+        [
+          550.6363636363636,
+          926.1948051948052
+        ],
+        [
+          990.8961038961039,
+          911.9090909090909
+        ],
+        [
+          906.4805194805194,
+          671.6493506493506
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_1",
+      "processor_id": "DL6192",
+      "category_id": "protect_wall_guardrail",
+      "segmentation": [
+        [
+          1394.8961038961038,
+          143.1818181818182
+        ],
+        [
+          1498.7922077922078,
+          286.038961038961
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_2",
+      "processor_id": "DL6192",
+      "category_id": "direction_sign_left",
+      "segmentation": [
+        [
+          318.27272727272725,
+          223.7012987012987
+        ],
+        [
+          359.83116883116884,
+          250.97402597402595
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_3",
+      "processor_id": "DL6192",
+      "category_id": "protect_wall_guardrail",
+      "segmentation": [
+        [
+          1128.6623376623377,
+          550.974025974026
+        ],
+        [
+          1242.948051948052,
+          700.3246753246754
+        ]
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": "walkway_block",
+      "name": "보도블럭",
+      "supercategory": "walkway"
+    },
+    {
+      "id": "block_kind_good",
+      "name": "주행성 좋음",
+      "supercategory": "block_kind"
+    },
+    {
+      "id": "block_state_normal",
+      "name": "보도블럭 정상",
+      "supercategory": "block_state"
+    },
+    {
+      "id": "protect_wall_guardrail",
+      "name": "접근방지용 난간",
+      "supercategory": "protect_wall"
+    },
+    {
+      "id": "direction_sign_left",
+      "name": "왼쪽이동표식",
+      "supercategory": "direction_sign"
+    },
+    {
+      "id": "protect_wall_guardrail",
+      "name": "접근방지용 난간",
+      "supercategory": "protect_wall"
+    }
+  ]
+}
+  ]
+}

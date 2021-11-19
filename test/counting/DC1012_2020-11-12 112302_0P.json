@@ -1,0 +1,106 @@
+{
+  "info": {
+    "Year": "2020",
+    "version": "4.5.6",
+    "date_created": "2020/12/01 12:50:47"
+  },
+  "images": {
+    "file_name": "DC1012_2020-11-12 112302_0P.jpg",
+    "height": 1080,
+    "width": 1920,
+    "date_captured": "2020-11-12 112302",
+    "collector_id": "DC1012"
+  },
+  "annotations": [
+    {
+      "id": "polygon_1",
+      "processor_id": "Desktop",
+      "category_id": "brailleblock_line",
+      "segmentation": [
+        [
+          860.2564102564103,
+          878.051282051282
+        ],
+        [
+          887.0,
+          1079.0
+        ],
+        [
+          1011.0,
+          1079.0
+        ],
+        [
+          937.1794871794872,
+          878.051282051282
+        ]
+      ]
+    },
+    {
+      "id": "polygon_2",
+      "processor_id": "Desktop",
+      "category_id": "walkway_block",
+      "segmentation": [
+        [
+          283.3333333333333,
+          981.8974358974358
+        ],
+        [
+          232.0,
+          1079.0
+        ],
+        [
+          857.0,
+          1079.0
+        ],
+        [
+          823.0769230769231,
+          887.025641025641
+        ],
+        [
+          462.8205128205128,
+          969.0769230769231
+        ]
+      ]
+    },
+    {
+      "id": "polygon_3",
+      "processor_id": "Desktop",
+      "category_id": "walkway_paved",
+      "segmentation": [
+        [
+          393.5064935064935,
+          767.5714285714286
+        ],
+        [
+          0.0,
+          1033.0
+        ],
+        [
+          0.0,
+          658.0
+        ],
+        [
+          395.67741935483866,
+          735.6774193548387
+        ]
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": "brailleblock_line",
+      "name": "선형블록",
+      "supercategory": "brailleblock"
+    },
+    {
+      "id": "walkway_block",
+      "name": "보도블럭",
+      "supercategory": "walkway"
+    },
+    {
+      "id": "walkway_paved",
+      "name": "포장도로",
+      "supercategory": "walkway"
+    }
+  ]
+}

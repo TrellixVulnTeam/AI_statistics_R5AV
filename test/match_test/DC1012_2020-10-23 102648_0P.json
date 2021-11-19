@@ -1,0 +1,122 @@
+{
+  "info": {
+    "Year": "2020",
+    "version": "4.5.6",
+    "date_created": "2020/11/04 11:03:54"
+  },
+  "images": {
+    "file_name": "DC1012_2020-10-23 102648_00.jpg",
+    "height": 1080,
+    "width": 1920,
+    "date_captured": "2020-10-23 102648",
+    "collector_id": "DC1012"
+  },
+  "annotations": [
+    {
+      "id": "rectangle_1",
+      "processor_id": "DL7601",
+      "category_id": "protect_wall_guardrail",
+      "segmentation": [
+        [
+          1159.8311688311687,
+          521.1038961038961
+        ],
+        [
+          1414.3766233766235,
+          776.9480519480519
+        ]
+      ]
+    },
+    {
+      "id": "polygon_1",
+      "processor_id": "DL7601",
+      "category_id": "continuity_manhole",
+      "segmentation": [
+        [
+          832.5584415584416,
+          730.1948051948052
+        ],
+        [
+          840.3506493506493,
+          775.6493506493506
+        ],
+        [
+          1000.0909090909091,
+          765.2597402597403
+        ],
+        [
+          996.1948051948052,
+          717.2077922077922
+        ]
+      ]
+    },
+    {
+      "id": "polygon_2",
+      "processor_id": "DL7601",
+      "category_id": "continuity_manhole",
+      "segmentation": [
+        [
+          863.7272727272727,
+          693.8311688311688
+        ],
+        [
+          984.5064935064935,
+          687.3376623376623
+        ],
+        [
+          980.6103896103896,
+          712.012987012987
+        ],
+        [
+          836.4545454545454,
+          717.2077922077922
+        ]
+      ]
+    },
+    {
+      "id": "polygon_3",
+      "processor_id": "DL7601",
+      "category_id": "continuity_tree",
+      "segmentation": [
+        [
+          650.7402597402597,
+          702.922077922078
+        ],
+        [
+          733.8571428571429,
+          704.2207792207791
+        ],
+        [
+          706.5844155844155,
+          719.8051948051948
+        ],
+        [
+          619.5714285714286,
+          726.2987012987013
+        ]
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": "protect_wall_guardrail",
+      "name": "접근방지용 난간",
+      "supercategory": "protect_wall"
+    },
+    {
+      "id": "continuity_manhole",
+      "name": "연속하지 않음 (맨홀)",
+      "supercategory": "continuity"
+    },
+    {
+      "id": "continuity_manhole",
+      "name": "연속하지 않음 (맨홀)",
+      "supercategory": "continuity"
+    },
+    {
+      "id": "continuity_tree",
+      "name": "연속하지 않음 (가로수영역)",
+      "supercategory": "continuity"
+    }
+  ]
+}

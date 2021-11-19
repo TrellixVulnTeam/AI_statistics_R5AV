@@ -1,0 +1,2130 @@
+{
+  "info": {
+    "Year": "2020",
+    "version": "4.5.6",
+    "date_created": "2020/11/23 15:36:56"
+  },
+  "images": {
+    "file_name": "DC0101_2020-10-13 110534_0P.jpg",
+    "height": 1080,
+    "width": 1920,
+    "date_captured": "2020-10-13 110534",
+    "collector_id": "DC0101"
+  },
+  "annotations": [
+    {
+      "id": "polygon_1",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flatness_A",
+      "segmentation": [
+        [
+          743.0,
+          311.0
+        ],
+        [
+          509.0,
+          457.0
+        ],
+        [
+          837.0,
+          461.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_2",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flatness_B",
+      "segmentation": [
+        [
+          263.0,
+          459.0
+        ],
+        [
+          241.0,
+          533.0
+        ],
+        [
+          323.0,
+          545.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_3",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flatness_C",
+      "segmentation": [
+        [
+          315.0,
+          629.0
+        ],
+        [
+          233.0,
+          695.0
+        ],
+        [
+          399.0,
+          715.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_4",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flatness_D",
+      "segmentation": [
+        [
+          451.0,
+          553.0
+        ],
+        [
+          379.0,
+          619.0
+        ],
+        [
+          461.0,
+          621.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_5",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flatness_E",
+      "segmentation": [
+        [
+          557.0,
+          557.0
+        ],
+        [
+          503.0,
+          665.0
+        ],
+        [
+          629.0,
+          663.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_6",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "walkway_paved",
+      "segmentation": [
+        [
+          667.0,
+          569.0
+        ],
+        [
+          621.0,
+          623.0
+        ],
+        [
+          703.0,
+          631.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_7",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "walkway_block",
+      "segmentation": [
+        [
+          591.0,
+          507.0
+        ],
+        [
+          555.0,
+          549.0
+        ],
+        [
+          627.0,
+          531.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_8",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "paved_state_broken",
+      "segmentation": [
+        [
+          467.0,
+          733.0
+        ],
+        [
+          403.0,
+          813.0
+        ],
+        [
+          527.0,
+          791.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_9",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "paved_state_normal",
+      "segmentation": [
+        [
+          605.0,
+          581.0
+        ],
+        [
+          541.0,
+          709.0
+        ],
+        [
+          697.0,
+          675.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_10",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "block_state_broken",
+      "segmentation": [
+        [
+          595.0,
+          715.0
+        ],
+        [
+          523.0,
+          789.0
+        ],
+        [
+          671.0,
+          789.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_11",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "block_state_normal",
+      "segmentation": [
+        [
+          487.0,
+          705.0
+        ],
+        [
+          345.0,
+          789.0
+        ],
+        [
+          507.0,
+          771.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_12",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "block_kind_bad",
+      "segmentation": [
+        [
+          523.0,
+          705.0
+        ],
+        [
+          505.0,
+          779.0
+        ],
+        [
+          613.0,
+          761.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_13",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "block_kind_good",
+      "segmentation": [
+        [
+          459.0,
+          635.0
+        ],
+        [
+          325.0,
+          731.0
+        ],
+        [
+          483.0,
+          713.0
+        ],
+        [
+          475.0,
+          623.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_14",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "outcurb_rectangle",
+      "segmentation": [
+        [
+          451.0,
+          409.0
+        ],
+        [
+          355.0,
+          479.0
+        ],
+        [
+          525.0,
+          475.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_15",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "outcurb_slide",
+      "segmentation": [
+        [
+          511.0,
+          363.0
+        ],
+        [
+          429.0,
+          443.0
+        ],
+        [
+          557.0,
+          437.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_16",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "outcurb_rectangle_broken",
+      "segmentation": [
+        [
+          429.0,
+          371.0
+        ],
+        [
+          399.0,
+          449.0
+        ],
+        [
+          529.0,
+          459.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_17",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "outcurb_slide_broken",
+      "segmentation": [
+        [
+          555.0,
+          519.0
+        ],
+        [
+          463.0,
+          563.0
+        ],
+        [
+          623.0,
+          585.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_18",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "restspace",
+      "segmentation": [
+        [
+          493.0,
+          605.0
+        ],
+        [
+          417.0,
+          661.0
+        ],
+        [
+          553.0,
+          683.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_19",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sidegap_in",
+      "segmentation": [
+        [
+          407.0,
+          455.0
+        ],
+        [
+          291.0,
+          571.0
+        ],
+        [
+          413.0,
+          551.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_20",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sidegap_out",
+      "segmentation": [
+        [
+          679.0,
+          591.0
+        ],
+        [
+          565.0,
+          657.0
+        ],
+        [
+          733.0,
+          669.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_21",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sewer_cross",
+      "segmentation": [
+        [
+          625.0,
+          487.0
+        ],
+        [
+          573.0,
+          561.0
+        ],
+        [
+          681.0,
+          549.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_22",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sewer_line",
+      "segmentation": [
+        [
+          787.0,
+          513.0
+        ],
+        [
+          667.0,
+          591.0
+        ],
+        [
+          791.0,
+          581.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_23",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "brailleblock_dot",
+      "segmentation": [
+        [
+          673.0,
+          415.0
+        ],
+        [
+          573.0,
+          499.0
+        ],
+        [
+          733.0,
+          483.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_24",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "brailleblock_line",
+      "segmentation": [
+        [
+          539.0,
+          309.0
+        ],
+        [
+          499.0,
+          373.0
+        ],
+        [
+          641.0,
+          369.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_25",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "brailleblock_dot_broken",
+      "segmentation": [
+        [
+          585.0,
+          283.0
+        ],
+        [
+          599.0,
+          393.0
+        ],
+        [
+          721.0,
+          391.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_26",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "brailleblock_line_broken",
+      "segmentation": [
+        [
+          433.0,
+          329.0
+        ],
+        [
+          309.0,
+          415.0
+        ],
+        [
+          457.0,
+          421.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_27",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "continuity_tree",
+      "segmentation": [
+        [
+          731.0,
+          403.0
+        ],
+        [
+          525.0,
+          509.0
+        ],
+        [
+          749.0,
+          511.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_28",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "continuity_manhole",
+      "segmentation": [
+        [
+          629.0,
+          225.0
+        ],
+        [
+          479.0,
+          289.0
+        ],
+        [
+          665.0,
+          297.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_29",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "ramp_yes",
+      "segmentation": [
+        [
+          487.0,
+          271.0
+        ],
+        [
+          361.0,
+          345.0
+        ],
+        [
+          543.0,
+          343.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_30",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "ramp_no",
+      "segmentation": [
+        [
+          603.0,
+          185.0
+        ],
+        [
+          485.0,
+          271.0
+        ],
+        [
+          681.0,
+          277.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_31",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "bicycleroad_broken",
+      "segmentation": [
+        [
+          743.0,
+          339.0
+        ],
+        [
+          601.0,
+          409.0
+        ],
+        [
+          769.0,
+          417.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_32",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "bicycleroad_normal",
+      "segmentation": [
+        [
+          685.0,
+          367.0
+        ],
+        [
+          571.0,
+          429.0
+        ],
+        [
+          705.0,
+          429.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_33",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "planecrosswalk_broken",
+      "segmentation": [
+        [
+          733.0,
+          457.0
+        ],
+        [
+          609.0,
+          535.0
+        ],
+        [
+          775.0,
+          545.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_34",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "planecrosswalk_normal",
+      "segmentation": [
+        [
+          851.0,
+          335.0
+        ],
+        [
+          751.0,
+          415.0
+        ],
+        [
+          877.0,
+          423.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_35",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "bump_slow",
+      "segmentation": [
+        [
+          777.0,
+          495.0
+        ],
+        [
+          657.0,
+          581.0
+        ],
+        [
+          825.0,
+          591.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_36",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "bump_zigzag",
+      "segmentation": [
+        [
+          815.0,
+          531.0
+        ],
+        [
+          729.0,
+          653.0
+        ],
+        [
+          863.0,
+          637.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_37",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "weed",
+      "segmentation": [
+        [
+          817.0,
+          679.0
+        ],
+        [
+          743.0,
+          747.0
+        ],
+        [
+          847.0,
+          743.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_38",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "floor_normal",
+      "segmentation": [
+        [
+          927.0,
+          539.0
+        ],
+        [
+          853.0,
+          609.0
+        ],
+        [
+          947.0,
+          605.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_39",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "floor_broken",
+      "segmentation": [
+        [
+          737.0,
+          833.0
+        ],
+        [
+          639.0,
+          893.0
+        ],
+        [
+          785.0,
+          891.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_40",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "flowerbed",
+      "segmentation": [
+        [
+          755.0,
+          691.0
+        ],
+        [
+          667.0,
+          757.0
+        ],
+        [
+          809.0,
+          749.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_41",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "parkspace",
+      "segmentation": [
+        [
+          719.0,
+          773.0
+        ],
+        [
+          661.0,
+          833.0
+        ],
+        [
+          799.0,
+          827.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_42",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "enterrail",
+      "segmentation": [
+        [
+          575.0,
+          829.0
+        ],
+        [
+          515.0,
+          909.0
+        ],
+        [
+          629.0,
+          917.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_43",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "fireshutter",
+      "segmentation": [
+        [
+          525.0,
+          837.0
+        ],
+        [
+          445.0,
+          911.0
+        ],
+        [
+          571.0,
+          917.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_44",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "stair_normal",
+      "segmentation": [
+        [
+          365.0,
+          845.0
+        ],
+        [
+          291.0,
+          921.0
+        ],
+        [
+          413.0,
+          909.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_45",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "stair_broken",
+      "segmentation": [
+        [
+          527.0,
+          833.0
+        ],
+        [
+          437.0,
+          885.0
+        ],
+        [
+          657.0,
+          897.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_46",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "wall",
+      "segmentation": [
+        [
+          685.0,
+          755.0
+        ],
+        [
+          593.0,
+          837.0
+        ],
+        [
+          733.0,
+          843.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_47",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "resting_place_roof",
+      "segmentation": [
+        [
+          855.0,
+          685.0
+        ],
+        [
+          779.0,
+          781.0
+        ],
+        [
+          911.0,
+          775.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_48",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "reception_desk",
+      "segmentation": [
+        [
+          843.0,
+          687.0
+        ],
+        [
+          781.0,
+          765.0
+        ],
+        [
+          945.0,
+          765.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_49",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_normal",
+      "segmentation": [
+        [
+          961.0,
+          645.0
+        ],
+        [
+          879.0,
+          711.0
+        ],
+        [
+          1007.0,
+          725.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_50",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_openarea",
+      "segmentation": [
+        [
+          811.0,
+          849.0
+        ],
+        [
+          709.0,
+          923.0
+        ],
+        [
+          863.0,
+          939.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_51",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_layer",
+      "segmentation": [
+        [
+          879.0,
+          805.0
+        ],
+        [
+          805.0,
+          873.0
+        ],
+        [
+          945.0,
+          875.0
+        ]
+      ]
+    },
+    {
+      "id": "polygon_52",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_emergency",
+      "segmentation": [
+        [
+          957.0,
+          767.0
+        ],
+        [
+          807.0,
+          839.0
+        ],
+        [
+          1021.0,
+          849.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_1",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sewer_cross",
+      "segmentation": [
+        [
+          839.0,
+          169.0
+        ],
+        [
+          987.0,
+          253.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_2",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sewer_line",
+      "segmentation": [
+        [
+          931.0,
+          269.0
+        ],
+        [
+          1023.0,
+          327.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_3",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "steepramp",
+      "segmentation": [
+        [
+          949.0,
+          377.0
+        ],
+        [
+          1057.0,
+          447.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_4",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "tierbump",
+      "segmentation": [
+        [
+          895.0,
+          339.0
+        ],
+        [
+          1047.0,
+          385.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_5",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "stone",
+      "segmentation": [
+        [
+          879.0,
+          399.0
+        ],
+        [
+          1009.0,
+          513.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_6",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "window_sliding",
+      "segmentation": [
+        [
+          1015.0,
+          221.0
+        ],
+        [
+          1071.0,
+          283.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_7",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "window_casement",
+      "segmentation": [
+        [
+          1005.0,
+          309.0
+        ],
+        [
+          1133.0,
+          363.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_8",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "pillar",
+      "segmentation": [
+        [
+          1009.0,
+          439.0
+        ],
+        [
+          1135.0,
+          479.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_9",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift",
+      "segmentation": [
+        [
+          971.0,
+          465.0
+        ],
+        [
+          1073.0,
+          537.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_10",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "door_normal",
+      "segmentation": [
+        [
+          1033.0,
+          545.0
+        ],
+        [
+          1103.0,
+          595.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_11",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "door_rotation",
+      "segmentation": [
+        [
+          971.0,
+          567.0
+        ],
+        [
+          1073.0,
+          635.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_12",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_door",
+      "segmentation": [
+        [
+          977.0,
+          623.0
+        ],
+        [
+          1105.0,
+          693.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_13",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "protect_wall_protective",
+      "segmentation": [
+        [
+          991.0,
+          671.0
+        ],
+        [
+          1111.0,
+          735.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_14",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "protect_wall_guardrail",
+      "segmentation": [
+        [
+          941.0,
+          703.0
+        ],
+        [
+          1059.0,
+          763.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_15",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "protect_wall_kickplate",
+      "segmentation": [
+        [
+          995.0,
+          777.0
+        ],
+        [
+          1101.0,
+          829.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_16",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "handle_vertical",
+      "segmentation": [
+        [
+          1011.0,
+          551.0
+        ],
+        [
+          1183.0,
+          639.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_17",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "handle_lever",
+      "segmentation": [
+        [
+          1043.0,
+          657.0
+        ],
+        [
+          1155.0,
+          723.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_18",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "handle_circular",
+      "segmentation": [
+        [
+          983.0,
+          477.0
+        ],
+        [
+          1127.0,
+          563.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_19",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_normal",
+      "segmentation": [
+        [
+          925.0,
+          649.0
+        ],
+        [
+          1055.0,
+          727.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_20",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_openarea",
+      "segmentation": [
+        [
+          1007.0,
+          481.0
+        ],
+        [
+          1187.0,
+          575.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_21",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_layer",
+      "segmentation": [
+        [
+          901.0,
+          481.0
+        ],
+        [
+          1009.0,
+          563.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_22",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "lift_button_emergency",
+      "segmentation": [
+        [
+          1151.0,
+          523.0
+        ],
+        [
+          1251.0,
+          625.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_23",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "direction_sign_left",
+      "segmentation": [
+        [
+          1133.0,
+          393.0
+        ],
+        [
+          1223.0,
+          455.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_24",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "direction_sign_right",
+      "segmentation": [
+        [
+          1085.0,
+          327.0
+        ],
+        [
+          1197.0,
+          391.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_25",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "direction_sign_straight",
+      "segmentation": [
+        [
+          1107.0,
+          665.0
+        ],
+        [
+          1207.0,
+          729.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_26",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "direction_sign_exit",
+      "segmentation": [
+        [
+          1037.0,
+          715.0
+        ],
+        [
+          1143.0,
+          773.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_27",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_toilet",
+      "segmentation": [
+        [
+          1089.0,
+          791.0
+        ],
+        [
+          1169.0,
+          831.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_28",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_parking",
+      "segmentation": [
+        [
+          1097.0,
+          685.0
+        ],
+        [
+          1255.0,
+          785.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_29",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_elevator",
+      "segmentation": [
+        [
+          1171.0,
+          577.0
+        ],
+        [
+          1309.0,
+          659.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_30",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_ramp",
+      "segmentation": [
+        [
+          1109.0,
+          425.0
+        ],
+        [
+          1229.0,
+          503.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_31",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_callbell",
+      "segmentation": [
+        [
+          1075.0,
+          433.0
+        ],
+        [
+          1251.0,
+          529.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_32",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "sign_disabled_icon",
+      "segmentation": [
+        [
+          1099.0,
+          427.0
+        ],
+        [
+          1309.0,
+          517.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_33",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "braille_sign",
+      "segmentation": [
+        [
+          1031.0,
+          373.0
+        ],
+        [
+          1145.0,
+          469.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_34",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "chair_multi",
+      "segmentation": [
+        [
+          1051.0,
+          265.0
+        ],
+        [
+          1213.0,
+          363.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_35",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "chair_one",
+      "segmentation": [
+        [
+          959.0,
+          275.0
+        ],
+        [
+          1085.0,
+          395.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_36",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "chair_circular",
+      "segmentation": [
+        [
+          1045.0,
+          277.0
+        ],
+        [
+          1157.0,
+          413.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_37",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "chair_back",
+      "segmentation": [
+        [
+          875.0,
+          371.0
+        ],
+        [
+          989.0,
+          461.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_38",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "chair_handle",
+      "segmentation": [
+        [
+          825.0,
+          301.0
+        ],
+        [
+          943.0,
+          387.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_39",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "number_ticket_machine",
+      "segmentation": [
+        [
+          715.0,
+          257.0
+        ],
+        [
+          851.0,
+          369.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_40",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "beverage_vending_machine",
+      "segmentation": [
+        [
+          907.0,
+          713.0
+        ],
+        [
+          1057.0,
+          839.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_41",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "beverage_desk",
+      "segmentation": [
+        [
+          1069.0,
+          707.0
+        ],
+        [
+          1245.0,
+          827.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_42",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "trash_can",
+      "segmentation": [
+        [
+          1183.0,
+          689.0
+        ],
+        [
+          1335.0,
+          773.0
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_43",
+      "processor_id": "labelme 패치 작업",
+      "category_id": "mailbox",
+      "segmentation": [
+        [
+          1205.0,
+          781.0
+        ],
+        [
+          1359.0,
+          867.0
+        ]
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": "flatness_A",
+      "name": "A(Very Good)",
+      "supercategory": "flatness"
+    },
+    {
+      "id": "flatness_B",
+      "name": "B(Good)",
+      "supercategory": "flatness"
+    },
+    {
+      "id": "flatness_C",
+      "name": "C(Fair)",
+      "supercategory": "flatness"
+    },
+    {
+      "id": "flatness_D",
+      "name": "D(Poor)",
+      "supercategory": "flatness"
+    },
+    {
+      "id": "flatness_E",
+      "name": "E(Very poor)",
+      "supercategory": "flatness"
+    },
+    {
+      "id": "walkway_paved",
+      "name": "포장도로",
+      "supercategory": "walkway"
+    },
+    {
+      "id": "walkway_block",
+      "name": "보도블럭",
+      "supercategory": "walkway"
+    },
+    {
+      "id": "paved_state_broken",
+      "name": "포장도로 파손",
+      "supercategory": "paved_state"
+    },
+    {
+      "id": "paved_state_normal",
+      "name": "포장도로 정상",
+      "supercategory": "paved_state"
+    },
+    {
+      "id": "block_state_broken",
+      "name": "보도블럭 파손",
+      "supercategory": "block_state"
+    },
+    {
+      "id": "block_state_normal",
+      "name": "보도블럭 정상",
+      "supercategory": "block_state"
+    },
+    {
+      "id": "block_kind_bad",
+      "name": "주행성 나쁨",
+      "supercategory": "block_kind"
+    },
+    {
+      "id": "block_kind_good",
+      "name": "주행성 좋음",
+      "supercategory": "block_kind"
+    },
+    {
+      "id": "outcurb_rectangle",
+      "name": "사각모서리 연석 정상",
+      "supercategory": "outcurb"
+    },
+    {
+      "id": "outcurb_slide",
+      "name": "경사형 연석 정상",
+      "supercategory": "outcurb"
+    },
+    {
+      "id": "outcurb_rectangle_broken",
+      "name": "사각모서리 연석 파손",
+      "supercategory": "outcurb"
+    },
+    {
+      "id": "outcurb_slide_broken",
+      "name": "경사형 연석 파손",
+      "supercategory": "outcurb"
+    },
+    {
+      "id": "restspace",
+      "name": "휴식참",
+      "supercategory": "restspace"
+    },
+    {
+      "id": "sidegap_in",
+      "name": "문턱 (실내)",
+      "supercategory": "sidegap"
+    },
+    {
+      "id": "sidegap_out",
+      "name": "문턱 (실외)",
+      "supercategory": "sidegap"
+    },
+    {
+      "id": "sewer_cross",
+      "name": "격자형 배수구",
+      "supercategory": "sewer"
+    },
+    {
+      "id": "sewer_line",
+      "name": "비 격자형 배수구",
+      "supercategory": "sewer"
+    },
+    {
+      "id": "brailleblock_dot",
+      "name": "점형블록",
+      "supercategory": "brailleblock"
+    },
+    {
+      "id": "brailleblock_line",
+      "name": "선형블록",
+      "supercategory": "brailleblock"
+    },
+    {
+      "id": "brailleblock_dot_broken",
+      "name": "점형블록 파손",
+      "supercategory": "brailleblock"
+    },
+    {
+      "id": "brailleblock_line_broken",
+      "name": "선형블록 파손",
+      "supercategory": "brailleblock"
+    },
+    {
+      "id": "continuity_tree",
+      "name": "연속하지 않음 (가로수영역)",
+      "supercategory": "continuity"
+    },
+    {
+      "id": "continuity_manhole",
+      "name": "연속하지 않음 (맨홀)",
+      "supercategory": "continuity"
+    },
+    {
+      "id": "ramp_yes",
+      "name": "미끄럼방지 있는 경사로",
+      "supercategory": "ramp"
+    },
+    {
+      "id": "ramp_no",
+      "name": "미끄럼방지 없는 경사로",
+      "supercategory": "ramp"
+    },
+    {
+      "id": "bicycleroad_broken",
+      "name": "자전거 도로 파손",
+      "supercategory": "bicycleroad"
+    },
+    {
+      "id": "bicycleroad_normal",
+      "name": "자전거 도로 정상",
+      "supercategory": "bicycleroad"
+    },
+    {
+      "id": "planecrosswalk_broken",
+      "name": "평면횡단보도 파손",
+      "supercategory": "planecrosswalk"
+    },
+    {
+      "id": "planecrosswalk_normal",
+      "name": "평면횡단보도 정상",
+      "supercategory": "planecrosswalk"
+    },
+    {
+      "id": "bump_slow",
+      "name": "과속방지턱",
+      "supercategory": "bump"
+    },
+    {
+      "id": "bump_zigzag",
+      "name": "지그재그형 도로",
+      "supercategory": "bump"
+    },
+    {
+      "id": "weed",
+      "name": "잡초",
+      "supercategory": "weed"
+    },
+    {
+      "id": "floor_normal",
+      "name": "복도 바닥 정상",
+      "supercategory": "floor"
+    },
+    {
+      "id": "floor_broken",
+      "name": "복도바닥 파손",
+      "supercategory": "floor"
+    },
+    {
+      "id": "flowerbed",
+      "name": "화단",
+      "supercategory": "flowerbed"
+    },
+    {
+      "id": "parkspace",
+      "name": "주차공간",
+      "supercategory": "parkspace"
+    },
+    {
+      "id": "enterrail",
+      "name": "주출입문 레일",
+      "supercategory": "enterrail"
+    },
+    {
+      "id": "fireshutter",
+      "name": "방화셔터 바닥홈",
+      "supercategory": "fireshutter"
+    },
+    {
+      "id": "stair_normal",
+      "name": "계단",
+      "supercategory": "stair"
+    },
+    {
+      "id": "stair_broken",
+      "name": "계단 파손",
+      "supercategory": "stair_broken"
+    },
+    {
+      "id": "wall",
+      "name": "벽",
+      "supercategory": "wall"
+    },
+    {
+      "id": "resting_place_roof",
+      "name": "휴게시설",
+      "supercategory": "resting_place_roof"
+    },
+    {
+      "id": "reception_desk",
+      "name": "하부공간이 있는 접수대",
+      "supercategory": "reception_desk"
+    },
+    {
+      "id": "lift_button_normal",
+      "name": "일반(조작설비영역)",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_openarea",
+      "name": "문열림닫침 영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_layer",
+      "name": "층수영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_emergency",
+      "name": "비상벨영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "sewer_cross",
+      "name": "격자형 배수구",
+      "supercategory": "sewer"
+    },
+    {
+      "id": "sewer_line",
+      "name": "비 격자형 배수구",
+      "supercategory": "sewer"
+    },
+    {
+      "id": "steepramp",
+      "name": "간이 부분경사로",
+      "supercategory": "steepramp"
+    },
+    {
+      "id": "tierbump",
+      "name": "타이어 방지턱",
+      "supercategory": "tierbump"
+    },
+    {
+      "id": "stone",
+      "name": "경관용 돌",
+      "supercategory": "stone"
+    },
+    {
+      "id": "window_sliding",
+      "name": "미서기창",
+      "supercategory": "window"
+    },
+    {
+      "id": "window_casement",
+      "name": "여닫이창",
+      "supercategory": "window"
+    },
+    {
+      "id": "pillar",
+      "name": "기둥",
+      "supercategory": "pillar"
+    },
+    {
+      "id": "lift",
+      "name": "승강기 (시설)",
+      "supercategory": "lift"
+    },
+    {
+      "id": "door_normal",
+      "name": "문",
+      "supercategory": "door"
+    },
+    {
+      "id": "door_rotation",
+      "name": "회전문",
+      "supercategory": "door"
+    },
+    {
+      "id": "lift_door",
+      "name": "승강기 출입문",
+      "supercategory": "lift_door"
+    },
+    {
+      "id": "protect_wall_protective",
+      "name": "방호울타리",
+      "supercategory": "protect_wall"
+    },
+    {
+      "id": "protect_wall_guardrail",
+      "name": "접근방지용 난간",
+      "supercategory": "protect_wall"
+    },
+    {
+      "id": "protect_wall_kickplate",
+      "name": "킥플레이트",
+      "supercategory": "protect_wall"
+    },
+    {
+      "id": "handle_vertical",
+      "name": "수직막대형",
+      "supercategory": "handle"
+    },
+    {
+      "id": "handle_lever",
+      "name": "레버형",
+      "supercategory": "handle"
+    },
+    {
+      "id": "handle_circular",
+      "name": "원형손잡이",
+      "supercategory": "handle"
+    },
+    {
+      "id": "lift_button_normal",
+      "name": "일반(조작설비영역)",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_openarea",
+      "name": "문열림닫침 영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_layer",
+      "name": "층수영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "lift_button_emergency",
+      "name": "비상벨영역",
+      "supercategory": "lift_button"
+    },
+    {
+      "id": "direction_sign_left",
+      "name": "왼쪽이동표식",
+      "supercategory": "direction_sign"
+    },
+    {
+      "id": "direction_sign_right",
+      "name": "오른쪽이동표식",
+      "supercategory": "direction_sign"
+    },
+    {
+      "id": "direction_sign_straight",
+      "name": "화살표 (후진/직진 포함)",
+      "supercategory": "direction_sign"
+    },
+    {
+      "id": "direction_sign_exit",
+      "name": "출구표식",
+      "supercategory": "direction_sign"
+    },
+    {
+      "id": "sign_disabled_toilet",
+      "name": "(장애인) 화장실표시판",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "sign_disabled_parking",
+      "name": "(장애인) 주차표지판",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "sign_disabled_elevator",
+      "name": "(장애인) 교통약자 전용 엘리베이터 표지판",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "sign_disabled_ramp",
+      "name": "(장애인) 경사로 안내 표지판",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "sign_disabled_callbell",
+      "name": "(장애인) 비상 호출벨 안내표지판",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "sign_disabled_icon",
+      "name": "장애인 아이콘 표시",
+      "supercategory": "sign_disabled"
+    },
+    {
+      "id": "braille_sign",
+      "name": "표지판 내 점자 영역 ",
+      "supercategory": "braille_sign"
+    },
+    {
+      "id": "chair_multi",
+      "name": "다인용 평의자",
+      "supercategory": "chair"
+    },
+    {
+      "id": "chair_one",
+      "name": "일인용 의자",
+      "supercategory": "chair"
+    },
+    {
+      "id": "chair_circular",
+      "name": "원형 의자",
+      "supercategory": "chair"
+    },
+    {
+      "id": "chair_back",
+      "name": "등받이가 있는 휴게 의자",
+      "supercategory": "chair_back"
+    },
+    {
+      "id": "chair_handle",
+      "name": "손잡이가 있는 휴게 의자",
+      "supercategory": "chair_handle"
+    },
+    {
+      "id": "number_ticket_machine",
+      "name": "번호표",
+      "supercategory": "number_ticket_machine"
+    },
+    {
+      "id": "beverage_vending_machine",
+      "name": "판매기",
+      "supercategory": "beverage_vending_machine"
+    },
+    {
+      "id": "beverage_desk",
+      "name": "음료대",
+      "supercategory": "beverage_desk"
+    },
+    {
+      "id": "trash_can",
+      "name": "휴지통",
+      "supercategory": "trash_can"
+    },
+    {
+      "id": "mailbox",
+      "name": "우체통",
+      "supercategory": "mailbox"
+    }
+  ]
+}

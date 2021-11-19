@@ -1,0 +1,58 @@
+{
+  "info": {
+    "Year": "2020",
+    "version": "4.5.6",
+    "date_created": "2020/10/29 10:01:14"
+  },
+  "images": {
+    "file_name": "DC0101_2020-10-10 092951_DP.jpg",
+    "height": 455,
+    "width": 330,
+    "date_captured": "2020-10-10 092951",
+    "collector_id": "DC0101"
+  },
+  "annotations": [
+    {
+      "id": "rectangle_1",
+      "processor_id": "DL0101",
+      "category_id": "sewer_cross",
+      "segmentation": [
+        [
+          37.02325581395348,
+          72.67441860465117
+        ],
+        [
+          60.279069767441854,
+          90.11627906976744
+        ]
+      ]
+    },
+    {
+      "id": "rectangle_2",
+      "processor_id": "DL0101",
+      "category_id": "sewer_cross",
+      "segmentation": [
+        [
+          62.6046511627907,
+          133.13953488372093
+        ],
+        [
+          92.83720930232559,
+          161.62790697674419
+        ]
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": "sewer_cross",
+      "name": "격자형 배수구",
+      "supercategory": "sewer"
+    },
+    {
+      "id": "sewer_cross",
+      "name": "격자형 배수구",
+      "supercategory": "sewer"
+    }
+  ]
+}
